@@ -1,0 +1,23 @@
+//
+//  iOS_Chart.pch
+//  iOS_Chart
+//
+//  Created by KC on 2017/7/19.
+//  Copyright © 2017年 KC. All rights reserved.
+//
+
+#ifndef iOS_Chart_pch
+#define iOS_Chart_pch
+
+
+#import "UIView+YYAdd.h"
+#import "XGDeviceManager.h"
+
+
+#define ScreenWidth  [UIScreen mainScreen].bounds.size.width
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* iOS_Chart_pch */
